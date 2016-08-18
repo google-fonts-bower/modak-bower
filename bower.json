@@ -1,0 +1,17 @@
+{
+    "name": "modak-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Ek Type"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/modak-bower.git"
+    },
+    "description": "Modak font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
